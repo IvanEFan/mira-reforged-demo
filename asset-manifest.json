@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mira-reforged-demo/static/css/main.fcd6090c.chunk.css",
+    "main.css": "/mira-reforged-demo/static/css/main.ee2f0d79.chunk.css",
     "main.js": "/mira-reforged-demo/static/js/main.4b492526.chunk.js",
     "main.js.map": "/mira-reforged-demo/static/js/main.4b492526.chunk.js.map",
     "runtime-main.js": "/mira-reforged-demo/static/js/runtime-main.e4dba8d5.js",
@@ -10,13 +10,13 @@
     "static/js/3.985fa6e9.chunk.js": "/mira-reforged-demo/static/js/3.985fa6e9.chunk.js",
     "static/js/3.985fa6e9.chunk.js.map": "/mira-reforged-demo/static/js/3.985fa6e9.chunk.js.map",
     "index.html": "/mira-reforged-demo/index.html",
-    "static/css/main.fcd6090c.chunk.css.map": "/mira-reforged-demo/static/css/main.fcd6090c.chunk.css.map",
+    "static/css/main.ee2f0d79.chunk.css.map": "/mira-reforged-demo/static/css/main.ee2f0d79.chunk.css.map",
     "static/js/2.4e76b4e3.chunk.js.LICENSE.txt": "/mira-reforged-demo/static/js/2.4e76b4e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4dba8d5.js",
     "static/js/2.4e76b4e3.chunk.js",
-    "static/css/main.fcd6090c.chunk.css",
+    "static/css/main.ee2f0d79.chunk.css",
     "static/js/main.4b492526.chunk.js"
   ]
 }
